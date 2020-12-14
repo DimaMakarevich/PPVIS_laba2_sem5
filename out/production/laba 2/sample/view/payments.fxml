@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.view.Payments">
+   <children>
+      <Button layoutX="128.0" layoutY="89.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="130.0" text="Мобильная связь" />
+      <Button layoutX="274.0" layoutY="90.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="130.0" text="Интернет" />
+      <Button layoutX="426.0" layoutY="90.0" mnemonicParsing="false" text="Комунальные услуги" />
+      <Button layoutX="274.0" layoutY="279.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="130.0" text="Назад" />
+      <Label layoutX="300.0" layoutY="24.0" text="Платежи" />
+   </children>
+</AnchorPane>
